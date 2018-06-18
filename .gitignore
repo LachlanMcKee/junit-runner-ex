@@ -1,0 +1,11 @@
+# Compiled Folders
+Build/
+.gradle/
+out/
+
+# IntelliJ Files
+.idea/
+*.iml
+
+# Vim Temp files
+*~
